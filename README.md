@@ -8,7 +8,7 @@ This particular PCB is designed using Kicad v8.0
 **This design has been built and tested successfully!**
 For more details, check out the product pages at
 
-   * [Glyph-C3](https://shop.pcbcupid.com/product/gd003/)
+   * [Glyph-H2](https://shop.pcbcupid.com/product/gd003/)
 
 We are here to build India's largest open source hardware community, If you like to support
 please consider buying the product from the above link!
